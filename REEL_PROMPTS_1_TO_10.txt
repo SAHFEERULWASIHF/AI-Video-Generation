@@ -1,0 +1,232 @@
+# FSW Creations - AI Influencer 'Kael' Reels Prompts (1-10)
+
+## Brand Identity Reference:
+- **Primary Color:** #00D4AA Electric Teal
+- **Background Color:** #0D1B2A Deep Navy
+- **Character:** Kael, mid-30s male, sharp features, intense gaze, dark short hair, tech-minimalist Navy suit with Teal accents.
+- **Style:** Cinematic Realistic, Dark, Moody, High-Contrast.
+
+---
+
+## Reel 01: The Death of SEO (GEO Era)
+**Topic:** Generative Engine Optimization (GEO) replacing traditional SEO.
+**Total Duration:** 24 Seconds
+**Caption:** SEO isn't dying; it's evolving. In 2026, we don't optimize for keywords, we optimize for engines. Are you ready for GEO? 🚀 #FSWCreations #SEO2026 #DigitalMarketing #AI #GEO
+
+### Reel 01 Scene 01 (Duration: 4s)
+**First Frame Prompt:** Ultra-realistic cinematic close-up of Kael, mid-30s male with sharp features and intense gaze, looking directly into the camera. Dark moody studio background with a faint #00D4AA Electric Teal holographic glow. Lighting is high-contrast, dramatic shadows on his face. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael slightly tilts his head, a subtle smirk forming. The #00D4AA Electric Teal hologram behind him becomes sharper, showing the text "SEO IS DEAD" in white. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 4-second video starting from [First Frame] and ending at [Last Frame]. Kael is looking into the camera with a calm, authoritative expression. Smooth, subtle head tilt. Voiceover: "SEO as you know it... is dead." Deep, calm, authoritative male voice. Cinematic movement, 9:16 ratio, ultra-realistic.
+
+### Reel 01 Scene 02 (Duration: 8s)
+**First Frame Prompt:** Medium shot of Kael in his #0D1B2A Deep Navy tech-suit. He is gesturing towards a floating 3D data visualization in Electric Teal. The studio is dark and expansive. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael points specifically at a node in the 3D data web. The node glows bright #00D4AA Electric Teal. Text "GEO" appears in the air. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Kael explains the shift from keywords to generative engines. Hand gestures are fluid and precise. Voiceover: "We've moved past keywords. In 2026, it's about Generative Engine Optimization. If AI doesn't cite you, you don't exist." Deep, calm, authoritative male voice. 9:16 ratio, cinematic realistic.
+
+### Reel 01 Scene 03 (Duration: 8s)
+**First Frame Prompt:** Close up on Kael’s hands as he interacts with a sleek, dark glass tablet. The screen reflects #00D4AA Electric Teal light. 9:16 aspect ratio.
+**Last Frame Prompt:** Cut back to Kael’s face, looking determined. A blurred background of digital code scrolling in Navy and Teal. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Focus on the interface then transition back to Kael's face. Voiceover: "You need to feed the AI agents the right entities, not just words. This is how FSW Creations secures your future reach." Deep, calm, authoritative male voice. 9:16 ratio, ultra-realistic.
+
+### Reel 01 Scene 04 (Duration: 4s)
+**First Frame Prompt:** Kael standing confidently, arms crossed. The FSW Creations logo glows in the background in Electric Teal. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael walks toward the camera, the screen fades to #0D1B2A Deep Navy with the text "FSW.Creations" in #00D4AA. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 4-second video starting from [First Frame] and ending at [Last Frame]. Kael looks into the camera with a confident nod. Voiceover: "Adapt or be left behind. Follow FSW for the 2026 roadmap." Deep, calm, authoritative male voice. 9:16 ratio, cinematic.
+
+---
+
+## Reel 02: AI Agent Takeover
+**Topic:** Optimizing content for AI agents that browse on behalf of humans.
+**Total Duration:** 20 Seconds
+**Caption:** In 2026, your biggest customer isn't a human. It's an AI Agent. If they can't find you, no one will. 🤖 #AIAgents #DigitalMarketing #FutureOfSearch #FSWCreations
+
+### Reel 02 Scene 01 (Duration: 6s)
+**First Frame Prompt:** Extreme close-up of Kael’s eye, reflecting a #00D4AA Electric Teal circuit pattern. 9:16 aspect ratio, ultra-realistic.
+**Last Frame Prompt:** Camera pulls back to reveal Kael’s face in a dark, moody setting. He is surrounded by floating AI agent icons. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. The camera zooms out smoothly from the eye. Voiceover: "Your next customer isn't a person. It's a bot searching for one." Deep, calm, authoritative male voice. 9:16 ratio, cinematic realistic.
+
+### Reel 02 Scene 02 (Duration: 8s)
+**First Frame Prompt:** Kael sitting at a futuristic dark desk, holographic documents in Electric Teal floating around him. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael swipes a document away, and it dissolves into Teal particles. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Kael is reviewing data. Voiceover: "AI Agents are now doing the 'shopping' for users. They scan for schema, trust, and entity clarity. Is your site ready for their audit?" Deep, calm, authoritative male voice. 9:16 ratio, ultra-realistic.
+
+### Reel 02 Scene 03 (Duration: 6s)
+**First Frame Prompt:** Kael standing in front of a window overlooking a dark, futuristic city at night with teal lights. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael turns his back to the window and looks into the lens. Text: "PREPARE NOW" in white. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Cinematic lighting. Voiceover: "The transition is happening now. Don't be invisible to the agents. Let’s build your AI authority." Deep, calm, authoritative male voice. 9:16 ratio.
+
+---
+
+## Reel 03: The Death of the Keyword
+**Topic:** Entity-based SEO over keyword stuffing.
+**Total Duration:** 22 Seconds
+**Caption:** Stop stuffing keywords. Start building entities. This is the secret to 2026 ranking. 🧬 #SEO #ContentStrategy #AI #FSWCreations
+
+### Reel 03 Scene 01 (Duration: 6s)
+**First Frame Prompt:** Kael holding a handful of glowing white "keywords" (letters) that are crumbling into dust. Background is #0D1B2A Deep Navy. 9:16 aspect ratio.
+**Last Frame Prompt:** The dust transforms into a solid, glowing #00D4AA Electric Teal sphere (The Entity). 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Kael looks at the crumbling letters with a stoic expression. Voiceover: "Keywords are just dust. Google doesn't want words; it wants entities." Deep, calm, authoritative male voice. 9:16 ratio, ultra-realistic.
+
+### Reel 03 Scene 02 (Duration: 8s)
+**First Frame Prompt:** Medium shot of Kael, pointing to a holographic mind-map in Electric Teal connecting a brand to its concepts. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael rotates the mind-map. The connections glow brighter. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Kael explains the concept. Voiceover: "An entity is a concept Google understands. Your brand needs to be the central node in your niche's knowledge graph." Deep, calm, authoritative male voice. 9:16 ratio, cinematic.
+
+### Reel 03 Scene 03 (Duration: 8s)
+**First Frame Prompt:** Kael walking through a dark hall with Electric Teal neon strips on the walls. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael stops and looks directly at the camera, a sharp glint in his eye. Text: "FSW CREATIONS" appears. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Stop guessing. Start building a brand entity that AI engines can't ignore. This is the FSW way." Deep, calm, authoritative male voice. 9:16 ratio, realistic.
+
+---
+
+## Reel 04: Brand Voice: The New Ranking Signal
+**Topic:** How a consistent brand voice helps AI identify and rank you.
+**Total Duration:** 20 Seconds
+**Caption:** In an ocean of AI content, your Brand Voice is your only fingerprint. Make it loud. 🗣️ #BrandVoice #MarketingTrends #SEO2026 #FSWCreations
+
+### Reel 04 Scene 01 (Duration: 6s)
+**First Frame Prompt:** Kael standing in a room full of blurred, identical grey silhouettes of people. He is the only one in sharp focus and color (Navy/Teal). 9:16 aspect ratio.
+**Last Frame Prompt:** Kael speaks, and a pulse of #00D4AA Electric Teal light radiates from him, clearing the silhouettes. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Kael looks confident. Voiceover: "In 2026, the internet is flooded with generic AI content. How do you stand out?" Deep, calm, authoritative male voice. 9:16 ratio, ultra-realistic.
+
+### Reel 04 Scene 02 (Duration: 8s)
+**First Frame Prompt:** Close up of Kael’s mouth as he speaks (side profile), sound waves made of teal light visible in the air. 9:16 aspect ratio.
+**Last Frame Prompt:** The sound waves form the FSW Creations logo. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Your brand voice is now a ranking signal. AI search engines identify your unique tone as a mark of authority and trust." Deep, calm, authoritative male voice. 9:16 ratio, cinematic.
+
+### Reel 04 Scene 03 (Duration: 6s)
+**First Frame Prompt:** Kael adjust his tech-suit cuff, looking sharp. The lighting is moody with teal highlights. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael points at the viewer. Text: "DEFINE YOUR VOICE." 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Don't sound like everyone else. Sound like the authority you are. We’ll help you find it." Deep, calm, authoritative male voice. 9:16 ratio.
+
+---
+
+## Reel 05: Search Everywhere (Omnichannel)
+**Topic:** SEO is no longer just for Google; it’s for TikTok, ChatGPT, and Meta.
+**Total Duration:** 24 Seconds
+**Caption:** Google isn't the only search engine anymore. You need to be everywhere the AI looks. 🌐 #Omnichannel #DigitalMarketing #FutureProof #FSWCreations
+
+### Reel 05 Scene 01 (Duration: 6s)
+**First Frame Prompt:** Kael standing in the center of a circle of glowing screens, each showing a different platform (TikTok, Meta, ChatGPT, Google). 9:16 aspect ratio.
+**Last Frame Prompt:** Kael spins slowly, and all screens turn #00D4AA Electric Teal. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "The monopoly is over. People aren't just 'Googling' anymore. They're searching everywhere." Deep, calm, authoritative male voice. 9:16 ratio, ultra-realistic.
+
+### Reel 05 Scene 02 (Duration: 10s)
+**First Frame Prompt:** Kael interacting with a floating 3D globe where teal lines connect different social icons. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael collapses the globe into a single teal point of light in his palm. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 10-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "From TikTok search to ChatGPT recommendations—your SEO strategy must be omnichannel. If you’re not optimized for every platform, you’re losing 70% of your reach." Deep, calm, authoritative male voice. 9:16 ratio, cinematic.
+
+### Reel 05 Scene 03 (Duration: 8s)
+**First Frame Prompt:** Kael looking out at the camera with a serious, advisor-like expression. Dark moody studio. 9:16 aspect ratio.
+**Last Frame Prompt:** Screen fades to Deep Navy with Teal logo. Text: "BE EVERYWHERE." 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "At FSW Creations, we don't just optimize for a page. We optimize for the entire digital ecosystem." Deep, calm, authoritative male voice. 9:16 ratio.
+
+---
+
+## Reel 06: The 2026 Secret Tool (AI Search Labs)
+**Topic:** Using advanced AI labs to test how search engines view your content.
+**Total Duration:** 22 Seconds
+**Caption:** Want to see your brand through the eyes of an AI? This is how we win in 2026. 🧪 #AITools #MarketingSecrets #FSWCreations #SEO
+
+### Reel 06 Scene 01 (Duration: 6s)
+**First Frame Prompt:** Kael wearing high-tech #00D4AA Teal-rimmed glasses, looking at a screen we can't see. Reflection in glasses shows complex code. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael removes the glasses and looks directly at us. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "What if you could see exactly how an AI sees your brand? No more guessing." Deep, calm, authoritative male voice. 9:16 ratio, ultra-realistic.
+
+### Reel 06 Scene 02 (Duration: 10s)
+**First Frame Prompt:** Kael standing in a lab-like dark room with tall server racks glowing with teal LEDs. 9:16 aspect ratio.
+**Last Frame Prompt:** A holographic "Audit Report" appears in the air, mostly green and teal. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 10-second video starting from [First Frame] and ending at [Last Frame]. Kael walks between the servers. Voiceover: "We use AI Search Labs to simulate algorithm shifts before they happen. We find the gaps in your authority before the 'Search Agents' do." Deep, calm, authoritative male voice. 9:16 ratio, cinematic.
+
+### Reel 06 Scene 03 (Duration: 6s)
+**First Frame Prompt:** Kael smiling subtly, leaning against a server rack. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael points to the FSW logo. Text: "FUTURE-PROOF YOUR BRAND." 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Get the 2026 advantage today. Let's run your first AI audit." Deep, calm, authoritative male voice. 9:16 ratio.
+
+---
+
+## Reel 07: The Authenticity Paradox
+**Topic:** Why human-led AI content ranks higher than pure AI content.
+**Total Duration:** 20 Seconds
+**Caption:** Pure AI is boring. Human-Led AI is powerful. Don't lose your soul in the machine. 👤+🤖 #Authenticity #AIContent #DigitalMarketing #FSWCreations
+
+### Reel 07 Scene 01 (Duration: 6s)
+**First Frame Prompt:** Split screen: Left side is a glitching, robotic Kael; Right side is the real, cinematic Kael. 9:16 aspect ratio.
+**Last Frame Prompt:** The split screen merges into the real, cinematic Kael who looks vibrant and sharp. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "The paradox of 2026: The more AI we use, the more 'Human' you need to be to rank." Deep, calm, authoritative male voice. 9:16 ratio, ultra-realistic.
+
+### Reel 07 Scene 02 (Duration: 8s)
+**First Frame Prompt:** Kael writing on a floating teal glass pane with a digital stylus. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael taps the pane, and the text turns into a beautiful, flowing teal energy stream. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Search engines now detect 'Human-in-the-loop' content. It’s about using AI as the brush, but you are the artist." Deep, calm, authoritative male voice. 9:16 ratio, cinematic.
+
+### Reel 07 Scene 03 (Duration: 6s)
+**First Frame Prompt:** Kael sitting in a comfortable leather chair in the dark studio, looking relaxed but powerful. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael nods slowly. Text: "FSW: HUMAN-POWERED AI." 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Don't just generate. Create. FSW Creations brings the human edge back to AI." Deep, calm, authoritative male voice. 9:16 ratio.
+
+---
+
+## Reel 08: Surviving Zero-Click Searches
+**Topic:** How to provide value so users click even when AI gives the answer.
+**Total Duration:** 22 Seconds
+**Caption:** Google is stealing your clicks with AI Overviews. Here is how to take them back. 🖱️ #ZeroClick #SEOStrategy #FSWCreations #MarketingTips
+
+### Reel 08 Scene 01 (Duration: 6s)
+**First Frame Prompt:** Kael looking at a digital screen where a hand is reaching out to grab a 'Click' button but it disappears. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael catches the 'Click' button before it fades away. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Zero-click searches are at an all-time high. AI is giving the answer, and users are staying on the page." Deep, calm, authoritative male voice. 9:16 ratio, ultra-realistic.
+
+### Reel 08 Scene 02 (Duration: 8s)
+**First Frame Prompt:** Kael standing in front of a giant #00D4AA Electric Teal bar graph showing a sudden spike. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael points to the top of the spike where a white 'Direct' icon is. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "To survive, you need to offer the 'Why' and the 'How' that the AI summary misses. You need to become the destination, not just the source." Deep, calm, authoritative male voice. 9:16 ratio, cinematic.
+
+### Reel 08 Scene 03 (Duration: 8s)
+**First Frame Prompt:** Kael adjusting his collar, walking confidently towards a bright teal light. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael's silhouette against the teal light. Text: "RECLAIM YOUR TRAFFIC." 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Stop being an answer. Start being an authority. Let's rebuild your click-through rate." Deep, calm, authoritative male voice. 9:16 ratio.
+
+---
+
+## Reel 09: Hyper-Local AI Optimization
+**Topic:** Local SEO in 2026: Optimizing for "AI Near Me".
+**Total Duration:** 20 Seconds
+**Caption:** Is your business invisible to 'AI Near Me' searches? Let's fix that. 📍 #LocalSEO #SmallBusiness #AI #FSWCreations
+
+### Reel 09 Scene 01 (Duration: 6s)
+**First Frame Prompt:** Close up of Kael’s hand holding a glowing #00D4AA Electric Teal map pin. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael drops the pin onto a dark 3D map of a city. The city lights up in teal. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Local search has changed. It's no longer just about maps; it's about proximity in the AI brain." Deep, calm, authoritative male voice. 9:16 ratio, ultra-realistic.
+
+### Reel 09 Scene 02 (Duration: 8s)
+**First Frame Prompt:** Kael standing in a dark street with teal neon signs in the background. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael looks at a holographic "Recommended by AI" badge floating in front of a shop. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Hyper-local AI optimization ensures you are the first recommendation when an AI agent is asked for 'the best nearby'. Trust and local signals are key." Deep, calm, authoritative male voice. 9:16 ratio, cinematic.
+
+### Reel 09 Scene 03 (Duration: 6s)
+**First Frame Prompt:** Kael looking directly at the camera, leaning against a dark wall. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael smiles and walks off-screen. Text: "DOMINATE YOUR NEIGHBORHOOD." 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Don't let your competitors own your backyard. FSW puts you on the AI map." Deep, calm, authoritative male voice. 9:16 ratio.
+
+---
+
+## Reel 10: The 2026 Marketing Stack Reset
+**Topic:** Why you need to delete your old tools and start over for the AI era.
+**Total Duration:** 24 Seconds
+**Caption:** Your 2024 marketing stack is holding you back. It's time for a 2026 reset. 🛠️ #MarketingTools #GrowthHacking #AI #FSWCreations
+
+### Reel 10 Scene 01 (Duration: 6s)
+**First Frame Prompt:** Kael standing in front of a pile of old, rusty gears and dusty computer parts. Lighting is #0D1B2A Navy. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael sweeps his hand, and the junk is replaced by a clean, minimalist #00D4AA Teal glowing core. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 6-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "Your 2024 tools are obsolete. They were built for a web that no longer exists." Deep, calm, authoritative male voice. 9:16 ratio, ultra-realistic.
+
+### Reel 10 Scene 02 (Duration: 10s)
+**First Frame Prompt:** Kael floating in a digital void with various modern AI icons (Agents, GEO, LLMs) orbiting him like planets. 9:16 aspect ratio.
+**Last Frame Prompt:** Kael grabs one icon, and it expands into a full workspace interface. 9:16 aspect ratio.
+**Video Generation Prompt:** Generate a 10-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "The 2026 stack is built on integration, agentic workflows, and real-time data. If you're still doing it manually, you're already behind." Deep, calm, authoritative male voice. 9:16 ratio, cinematic.
+
+### Reel 10 Scene 03 (Duration: 8s)
+**First Frame Prompt:** Kael standing in his dark studio, looking powerful and ready. 9:16 aspect ratio.
+**Last Frame Prompt:** Screen turns to solid Electric Teal. Text: "UPGRADE TO 2026. FSW CREATIONS." 9:16 aspect ratio.
+**Video Generation Prompt:** Generate an 8-second video starting from [First Frame] and ending at [Last Frame]. Voiceover: "It's time to reset. Let FSW Creations build your 2026 engine today." Deep, calm, authoritative male voice. 9:16 ratio.
