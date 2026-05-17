@@ -1,0 +1,54 @@
+name: Daily Reels Automation
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Morning 7 am UTC
+    - cron: '0 20 * * *' # Evening 8 pm UTC
+  workflow_dispatch:      # Allow manual triggering
+
+jobs:
+  generate-and-post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: |
+          pip install google-genai moviepy instagrapi pillow==11.3.0
+
+      - name: Generate and Post Reel
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          INSTA_USERNAME: ${{ secrets.INSTA_USERNAME }}
+          INSTA_PASSWORD: ${{ secrets.INSTA_PASSWORD }}
+        run: |
+          # Calculate Reel ID based on days since start
+          START_DATE="2025-06-01"
+          CURRENT_DATE=$(date +%Y-%m-%d)
+          DAYS_DIFF=$(( ( $(date -d "$CURRENT_DATE" +%s) - $(date -d "$START_DATE" +%s) ) / 86400 ))
+
+          # 2 posts per day
+          HOUR=$(date +%H)
+          if [ "$HOUR" -lt 12 ]; then
+            REEL_ID=$(( DAYS_DIFF * 2 + 1 ))
+          else
+            REEL_ID=$(( DAYS_DIFF * 2 + 2 ))
+          fi
+
+          # Loop back to 1 if we exceed available reels
+          REEL_ID=$(( (REEL_ID - 1) % 10 + 1 ))
+
+          echo "Processing Reel ID: $REEL_ID"
+          export REEL_ID=$REEL_ID
+          python generate_reels.py
