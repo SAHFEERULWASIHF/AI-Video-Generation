@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+storage/
+profiles/
+*.log
+*.mp4
+*.png
+*.srt
+*.ass
+database.db
